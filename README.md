@@ -4,5 +4,5 @@ An implementation of 32-bits MIPS Single Cycle Datapath in Verilog HDL.
 MIPS
 Verilog
 
-### ISA
+### ISA (Instruction Set Architecture)
 ![](unnamed.gif)
